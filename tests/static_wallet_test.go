@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/itsjoniur/go-cryptomus"
+	"github.com/shipvsi/go-cryptomus"
 
 	"github.com/stretchr/testify/require"
 )
