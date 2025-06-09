@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/itsjoniur/go-cryptomus"
+	"github.com/shipvsi/go-cryptomus"
 
 	"github.com/stretchr/testify/require"
 )
